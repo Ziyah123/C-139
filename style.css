@@ -1,0 +1,57 @@
+
+.heading button{
+    float:right;
+    border:1px solid white;
+    }
+    
+    .heading h3{
+    display:inline;
+    }
+    
+    .heading{
+    width:100%;
+    text-align: left;
+    }
+   
+    
+    #play_game, #status {
+    font-size:20px; 
+    }
+    
+   
+    
+     .modal-dialog {
+    width:90%;
+     }
+    
+     h4 {
+    background-color: rgb(255, 232, 236);
+    line-height: 2;
+   bottom:0;
+   position:fixed;
+   width:100%;
+     }
+
+     
+
+     #ping_pong {
+    width:30%;
+
+     }
+
+     #restart {
+    width:5%;
+    margin:40px; 
+     }
+
+     .modal-body{
+    text-align:left;
+    font-size:29px;
+     }
+
+     canvas {
+    border: 3px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    margin: 250px;
+     }
